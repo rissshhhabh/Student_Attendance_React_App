@@ -14,10 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Live App on Netlify....................    Link:- https://studentattendapp.netlify.app/
 
 ![Screenshot (133)](https://user-images.githubusercontent.com/113924805/211131810-70370e60-0c74-4f23-aab2-22a89b476af1.png)
 ![Screenshot (134)](https://user-images.githubusercontent.com/113924805/211131816-c245b5d0-578e-4889-9b35-27ca4aa83cb6.png)
